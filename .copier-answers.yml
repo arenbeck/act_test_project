@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v2.0.1
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: ac.beck@ucf.edu
+author_name: Aren C Beck
+custom_install: false
+package_name: acb_test_package
+project_license: MIT
+project_name: acb_test_project
+project_organization: arenbeck
